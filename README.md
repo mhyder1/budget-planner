@@ -5,6 +5,8 @@ The intent of this project is to learn new technologies and integrate them into 
 Subjects to explore:
 - Frontend (any framework)
 - Backend (any framework)
+- Caching (redis or any other)
+- Storybook (UI component testing)
 - Testing
 - Deployment
 - CI/CD
